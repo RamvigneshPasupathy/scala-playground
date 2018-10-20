@@ -18,8 +18,8 @@ This will fetch all the dependencies required for the project. And all the neede
 
 **Opening the Project in Eclipse**
 
- 1. Start up Eclipse
+ 1. Start your Scala IDE
  2. Select "File" - "Import" from the menu
  3. In the folder "General", select the item "Existing Projects into Workspace" and click "Next >"
- 4. The text field "Select root directory" asks for the root folder of your project - the root folder is where the `build.sbt` sits
+ 4. The "Select root directory" field asks for the root folder of your project - the root folder is where the `build.sbt` sits
  5. Click "Finish"
