@@ -21,5 +21,5 @@ This will fetch all the dependencies required for the project. And all the neede
  1. Start up Eclipse
  2. Select "File" - "Import" from the menu
  3. In the folder "General", select the item "Existing Projects into Workspace" and click "Next >"
- 4. The text field "Select root directory" asks for the root folder of your project - the root folder is where the `build.sbt` file is located
+ 4. The text field "Select root directory" asks for the root folder of your project - the root folder is where the `build.sbt` sits
  5. Click "Finish"
